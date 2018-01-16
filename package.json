@@ -5,9 +5,7 @@
   "version": "0.1.12",
   "license": "MIT",
   "keywords": [],
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "main": "./dist/node.cjs.js",
   "module": "./dist/node.es.js",
   "browser": {
@@ -25,7 +23,7 @@
     "./dist/browser.es2015.es.js": "./dist/browser.es2017.es.js"
   },
   "dependencies": {
-    "fusion-plugin-universal-events": "^0.1.11"
+    "fusion-plugin-universal-events": "^0.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.2",
@@ -37,9 +35,10 @@
     "eslint-plugin-prettier": "^2.3.1",
     "eslint-plugin-react": "^7.4.0",
     "flow-bin": "^0.59.0",
-    "fusion-core": "^0.2.3",
-    "fusion-react": "^0.1.9",
+    "fusion-core": "^0.3.0-2",
+    "fusion-react": "^0.2.0",
     "fusion-react-async": "^0.1.4",
+    "fusion-tokens": "0.0.4",
     "nyc": "^11.3.0",
     "prettier": "1.8.2",
     "react": "16.x",
@@ -48,7 +47,8 @@
   },
   "peerDependencies": {
     "fusion-core": "^0.2.3",
-    "fusion-react": "^0.1.9"
+    "fusion-react": "^0.1.9",
+    "fusion-tokens": "0.0.4"
   },
   "scripts": {
     "clean": "rm -rf dist",
