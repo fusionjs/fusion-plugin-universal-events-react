@@ -2537,10 +2537,10 @@ fusion-plugin-universal-events@^1.3.0-0:
   dependencies:
     koa-bodyparser "4.2.1"
 
-fusion-react@1.3.4-0:
-  version "1.3.4-0"
-  resolved "https://registry.yarnpkg.com/fusion-react/-/fusion-react-1.3.4-0.tgz#c08f77e6dcdef5f0ab833b9478f3758457892e98"
-  integrity sha512-IbLyatmw+21VH8Qer8XUyyadPEzzc4etTVxfgYBbCTgoMEaJoph3wLDf9QUarFw8+kp4hz4xpC7TXzjo3G6WpQ==
+fusion-react@1.3.4:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/fusion-react/-/fusion-react-1.3.4.tgz#10265436f4616e8e6e5c4e9d6f267e8350033b83"
+  integrity sha512-fxQQxnx3ligjgwEdVO0Z77YnTgJNr9Md6gQgkwLOlxpS6J4l6s/ePcrTAxfT0e1VTKROTYLQCiMmxbUrzgWz6A==
   dependencies:
     prop-types "^15.6.2"
     react-is "^16.6.3"
