@@ -43,8 +43,8 @@
     "fusion-tokens": "^1.1.1",
     "nyc": "^13.1.0",
     "prettier": "^1.15.3",
-    "react": "14.x - 16.x",
-    "react-dom": "14.x - 16.x",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
     "tape-cup": "^4.7.1"
   },
   "peerDependencies": {
