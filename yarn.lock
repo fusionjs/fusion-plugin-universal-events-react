@@ -2431,10 +2431,10 @@ flat-cache@^1.2.1:
     rimraf "~2.6.2"
     write "^0.2.1"
 
-flow-bin@^0.92.0:
-  version "0.92.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.92.0.tgz#f5bf3e808b17b480e067ac673829ca715a168bea"
-  integrity sha512-3ErXSAXZZlLV5/QPlaUDCWlDUXop1SiH32ifXL3SEiBwsmGbudCLim+HFVZfkegrn1nB4TcNSkMWtW8SnMPyAQ==
+flow-bin@^0.98.0:
+  version "0.98.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.98.0.tgz#3361a03682326a83a5f0a864749f4f7f0d826bce"
+  integrity sha512-vuiYjBVt82eYF+dEk9Zqa8hTSDvbhl/czxzFRLZm9/XHbJnYNMTwFoNFYAQT9IQ6ACNBIbwSTIfxroieuKja7g==
 
 for-each@~0.3.3:
   version "0.3.3"
@@ -2522,10 +2522,10 @@ fusion-core@^1.10.1:
     ua-parser-js "^0.7.19"
     uuid "^3.3.2"
 
-fusion-plugin-universal-events@^1.3.4-0:
-  version "1.3.4-0"
-  resolved "https://registry.yarnpkg.com/fusion-plugin-universal-events/-/fusion-plugin-universal-events-1.3.4-0.tgz#dc656e5843e2ce17554f5d3fa8fb93bf93e311c6"
-  integrity sha512-KWmAsq6JsVYnddFnESYee2hDwryV4R4orpbl6NetQ+Dd+An+YW06tOO1MoGs0P8VO5VUwPwAExdPSDVd3F0fJA==
+fusion-plugin-universal-events@^1.3.4:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/fusion-plugin-universal-events/-/fusion-plugin-universal-events-1.3.4.tgz#1c12efc6576f4d3a14dbaf0a645be5ceef27b74c"
+  integrity sha512-qpLUURykljLpFzxH0QJUv4t3dJrY4qLFgMLefT/fsGQ1gm6hoGoOek6HqeaUeJK45H9N9YNMlRCpINY3Wsk4qw==
   dependencies:
     koa-bodyparser "4.2.1"
 
